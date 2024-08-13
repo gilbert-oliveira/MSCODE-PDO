@@ -1,0 +1,14 @@
+{
+    "name": "gilbert/mscode-pdo",
+    "autoload": {
+        "psr-4": {
+            "Gilbert\\MscodePdo\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilbert Oliveira"
+        }
+    ],
+    "require": {}
+}
